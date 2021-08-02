@@ -1,4 +1,4 @@
-# cliapp
+# 3D Furniture Designer Client
 
 ## Project setup
 ```
